@@ -1,0 +1,329 @@
+Name,Category,Price,Paintable,MaxStack
+Wood Armor,Armor,13,False,1
+Wood Helmet,Armor,13,False,1
+Metal Helmet,Armor,153,False,1
+Metal Armor,Armor,200,False,1
+Titanium Helmet,Armor,514,False,1
+Titanium Armor,Armor,993,False,1
+Speed Helm,Armor,3649,False,1
+Ice Helmet,Armor,15239,False,1
+Ice Armor,Armor,19071,False,1
+Dark Helmet,Armor,38351,False,1
+Dark Armor,Armor,48483,False,1
+Ancient Armor,Armor,140155,False,1
+Ancient Helm,Armor,145927,False,1
+Anvil,Armor Accessories,200,True,1
+Armor Display,Armor Accessories,374,True,1
+Crucible,Armor Accessories,37399,True,1
+Sombrero,Clothing,32,False,1
+Top Hat,Clothing,32,False,1
+Blue Wizard Hat,Clothing,386,False,1
+Grey Wizard Hat,Clothing,386,False,1
+Purple Wizard Hat,Clothing,386,False,1
+White Top Hat,Clothing,734,False,1
+Super Top Hat,Clothing,1000,False,1
+Super White Top Hat,Clothing,1000,False,1
+Black Wizard Hat,Clothing,2004,False,1
+Storm Wizard Hat,Clothing,3000,False,1
+White Wizard Hat,Clothing,3575,False,1
+Amethyst Crown,Clothing,4972,False,1
+Emerald Crown,Clothing,4972,False,1
+Ruby Crown,Clothing,4972,False,1
+Sapphire Crown,Clothing,4972,False,1
+Feathers,Clothing Materials,5,False,5
+Cotton,Clothing Materials,9,False,5
+Fur,Clothing Materials,9,False,1
+Silk,Clothing Materials,75,False,5
+New Dirt Path,Farm Accessories,0,False,10
+Magic Bean,Farm Accessories,5000,False,1
+Personal Mine,Farm Accessories,27999,False,1
+Wood Pick,Farm Tools,10,False,1
+Shovel,Farm Tools,25,False,1
+Stone Pick,Farm Tools,48,False,1
+Drill,Farm Tools,340,False,1
+Titanium Shovel,Farm Tools,1392,False,1
+Magma Shovel,Farm Tools,18704,False,1
+Cactus,Farmable,25,False,1
+Dug-up Brown Mushroom,Farmable,40,False,1
+Dug-up Purple Mushroom,Farmable,40,False,1
+Dug-up Red Mushroom,Farmable,40,False,1
+Goldberry Bush,Farmable,60,False,1
+Berry Bush,Farmable,80,False,1
+Dug-up Pumpkin,Farmable,80,False,1
+Dug-up Wheat,Farmable,80,False,1
+Giant Brown Mushroom,Farmable,80,False,1
+Giant Red Mushroom,Farmable,90,False,1
+Giant Purple Mushroom,Farmable,110,False,1
+MoonBerry Bush,Farmable,120,False,1
+Bonsai Tree,Farmable,150,True,1
+Cotton Plant,Farmable,170,False,1
+Salmonberry Bush,Farmable,180,False,1
+Beehive,Farmable,275,False,1
+Dug-up Giant Pumpkin,Farmable,300,False,1
+Hot Pepper Plant,Farmable,350,False,1
+Spiderhive,Farmable,400,False,1
+Muffin,Food,1,False,10
+Toasted Nuts,Food,1,False,5
+Berry,Food,5,False,5
+Brown Mushroom,Food,5,False,5
+Bug Meat,Food,8,False,1
+Bread Loaf,Food,9,False,1
+MoonBerry,Food,15,False,5
+Red Mushroom,Food,15,False,5
+SalmonBerry,Food,15,False,5
+Uncooked Meat,Food,15,False,1
+Cooked Meat,Food,16,False,1
+Mushroom Stew,Food,16,False,1
+Hot Pepper,Food,20,False,1
+Pumpkin Pie,Food,32,False,1
+Purple Mushroom,Food,40,False,5
+Coco Loco,Food,45,False,1
+GoldBerry,Food,100,False,5
+Fried Egg,Food,169,False,1
+Campfire,Food Accessories,35,False,1
+Oven,Food Accessories,489,True,1
+New Dirt Path,Furniture,0,False,10
+Old Torch,Furniture,2,True,1
+Stick,Furniture,3,False,5
+New Wood Rails,Furniture,4,False,10
+Snowman,Furniture,4,False,1
+New Cobblestone Path,Furniture,5,False,10
+Stump Chair,Furniture,6,True,1
+Torch,Furniture,6,True,1
+Palisade Wall,Furniture,8,False,10
+Crafting Table,Furniture,10,True,1
+New Stone Slab,Furniture,10,False,10
+Basket,Furniture,13,True,1
+Old Land Claim,Furniture,15,False,1
+Sign,Furniture,16,True,1
+Low Stone Wall,Furniture,23,False,10
+Chair,Furniture,26,True,1
+Tall Stone Wall,Furniture,34,False,10
+Campfire,Furniture,35,False,1
+Loom,Furniture,46,True,1
+Small Table,Furniture,61,True,1
+Basic Rug,Furniture,69,True,1
+Bed,Furniture,74,True,1
+Chest,Furniture,74,True,1
+Navpost,Furniture,85,True,1
+Merchant Sign,Furniture,96,True,1
+Big Table,Furniture,100,True,1
+Lock,Furniture,133,False,1
+Sofa Chair,Furniture,138,True,1
+Bonsai Tree,Furniture,150,True,1
+Bouncy Floor,Furniture,155,False,10
+Metal Chair,Furniture,164,True,1
+Paint Mixer,Furniture,173,True,1
+Anvil,Furniture,200,True,1
+Blue Torch,Furniture,200,False,1
+Red Torch,Furniture,200,False,1
+Lamp Post,Furniture,214,True,1
+10-day Land Claim,Furniture,230,False,1
+Bookshelf,Furniture,238,True,1
+Big Stone Head,Furniture,247,True,1
+Gold Path,Furniture,248,False,10
+Park Bench,Furniture,254,True,1
+Fancy Torch,Furniture,283,True,1
+Painting Easel,Furniture,284,True,1
+Cauldron,Furniture,293,True,1
+Grandfather Clock,Furniture,355,False,1
+Hunter Rug,Furniture,372,False,1
+Armor Display,Furniture,374,True,1
+Music Box,Furniture,398,True,1
+Holiday Lights,Furniture,400,False,1
+Hunter Rug White,Furniture,401,False,1
+Oven,Furniture,489,True,1
+Fireplace,Furniture,511,True,1
+Metal Lamp Post,Furniture,516,True,1
+Crate,Furniture,527,True,1
+Weapon Display,Furniture,625,True,1
+String Lights,Furniture,633,False,1
+Pool Table,Furniture,709,True,1
+Painting,Furniture,800,True,1
+Teleporter,Furniture,879,True,1
+Large Weapon Display,Furniture,915,True,1
+Stamp Maker,Furniture,996,True,1
+30-day Land Claim,Furniture,1151,False,1
+Egg Fuser,Furniture,1158,True,1
+Double Crate,Furniture,1213,True,1
+Custom Statue,Furniture,1231,True,1
+Karaoke,Furniture,1844,True,1
+Paint Shaker,Furniture,2227,True,1
+Throne,Furniture,3341,True,1
+Blue String Lights,Furniture,4598,False,1
+Red String Lights,Furniture,4598,False,1
+Coin Hoard,Furniture,10000,False,1
+Huge Coin Hoard,Furniture,30000,False,1
+Crucible,Furniture,37399,True,1
+Snowball,Harvested Item,1,False,5
+Bones,Harvested Item,3,False,1
+Stick,Harvested Item,3,False,5
+Nut,Harvested Item,4,False,5
+Wheat,Harvested Item,4,False,5
+Berry,Harvested Item,5,False,5
+Brown Mushroom,Harvested Item,5,False,5
+Honeycomb,Harvested Item,5,False,1
+Cotton,Harvested Item,9,False,5
+Cactus Chunk,Harvested Item,10,False,1
+MoonBerry,Harvested Item,15,False,5
+Red Mushroom,Harvested Item,15,False,5
+SalmonBerry,Harvested Item,15,False,5
+Coconut,Harvested Item,20,False,1
+Hot Pepper,Harvested Item,20,False,1
+Pumpkin,Harvested Item,25,False,1
+Purple Mushroom,Harvested Item,40,False,5
+Silk,Harvested Item,75,False,5
+Fossil,Harvested Item,100,False,1
+GoldBerry,Harvested Item,100,False,5
+Egg,Harvested Item,150,False,1
+Ancient Bones,Harvested Item,1000,False,1
+Shack,Houses,23,True,1
+Igloo,Houses,26,False,1
+Tent,Houses,240,True,1
+Mansion,Houses,1040,True,1
+Windmill,Houses,1916,True,1
+Warehouse,Houses,3422,True,1
+Underground Room,Houses,4996,True,1
+Upstairs Room,Houses,4996,True,1
+Magic Bean,Houses,5000,False,1
+Spooky Well,Houses,5000,False,1
+Castle,Houses,5146,True,1
+Personal Mine,Houses,27999,False,1
+Torch,Mining Accessories,6,True,1
+Lava,Mining Accessories,20,False,10
+Spooky Well,Mining Accessories,5000,False,1
+Personal Mine,Mining Accessories,27999,False,1
+Wood Pick,Mining Tools,10,False,1
+Shovel,Mining Tools,25,False,1
+Stone Pick,Mining Tools,48,False,1
+Metal Pick,Mining Tools,147,False,1
+Drill,Mining Tools,340,False,1
+Titanium Pick,Mining Tools,918,False,1
+Titanium Shovel,Mining Tools,1392,False,1
+Magma Shovel,Mining Tools,18704,False,1
+Feathers,Mob Drops,5,False,5
+Bug Meat,Mob Drops,8,False,1
+Fur,Mob Drops,9,False,1
+Scales,Mob Drops,9,False,5
+Sharp Tooth,Mob Drops,9,False,5
+Uncooked Meat,Mob Drops,15,False,1
+Venom,Mob Drops,30,False,1
+Bones,Ores,3,False,1
+Stone Ore,Ores,10,False,1
+Metal Ore,Ores,20,False,1
+Titanium Ore,Ores,35,False,1
+Gold Ore,Ores,40,False,1
+Uranium Ore,Ores,50,False,1
+Magmite Ore,Ores,60,False,1
+Silver,Ores,70,False,1
+Amber,Ores,85,False,1
+Amethyst,Ores,85,False,1
+Emerald,Ores,85,False,1
+Ruby,Ores,85,False,1
+Sapphire,Ores,85,False,1
+Fossil,Ores,100,False,1
+Ice Shard,Ores,400,False,1
+Dark Shard,Ores,850,False,1
+Ancient Bones,Ores,1000,False,1
+Paint Mixer,Paintbrush Accessories,173,True,1
+Paint Shaker,Paintbrush Accessories,2227,True,1
+Basic Brown,Paintbrushes,5,False,5
+Basic White,Paintbrushes,16,False,5
+Basic Cyan,Paintbrushes,20,False,5
+Pinewood,Paintbrushes,24,False,5
+Basic Yellow,Paintbrushes,25,False,5
+Basic Blue,Paintbrushes,26,False,5
+Basic Green,Paintbrushes,35,False,5
+Basic Red,Paintbrushes,35,False,5
+Basic Pink,Paintbrushes,53,False,5
+Olive Green,Paintbrushes,68,False,5
+Spirit Grey,Paintbrushes,68,False,5
+Basic Orange,Paintbrushes,83,False,5
+Basic Black,Paintbrushes,123,False,5
+Basic Purple,Paintbrushes,123,False,5
+Banana Bruise,Paintbrushes,124,False,5
+Winter Pastel,Paintbrushes,142,False,5
+Banana Dessert,Paintbrushes,147,False,5
+Storm Grey,Paintbrushes,156,False,5
+Royal Red,Paintbrushes,170,False,5
+Candycane,Paintbrushes,173,False,5
+Nomad Red,Paintbrushes,188,False,5
+Royal Sage,Paintbrushes,198,False,5
+Gold Leaf,Paintbrushes,227,False,5
+Lavender Bloom,Paintbrushes,232,False,5
+Lavender Plum,Paintbrushes,232,False,5
+Mystic Dusk,Paintbrushes,232,False,5
+Forest Green,Paintbrushes,253,False,5
+Mystic Dawn,Paintbrushes,258,False,5
+Marble White,Paintbrushes,272,False,5
+Lumberjack,Paintbrushes,361,False,5
+Scottish Green,Paintbrushes,361,False,5
+Titanium Trim,Paintbrushes,369,False,5
+Black & Gold,Paintbrushes,397,False,5
+Flaming Orange,Paintbrushes,441,False,5
+Cauldron,Potion Accessories,293,True,1
+Uranium Bar,Potion Accessories,322,False,1
+Rushers,Potions,1,False,10
+Jam,Potions,16,False,1
+Bone Juice,Potions,30,False,1
+Moonberry Juice,Potions,33,False,1
+Expando Bread,Potions,138,False,1
+Super Jam,Potions,596,False,1
+Torch,Ranger Accessories,6,True,1
+Campfire,Ranger Accessories,35,False,1
+Poison Spikes,Ranger Accessories,316,False,1
+Metal Bar,Refined Materials,35,False,1
+Titanium Bar,Refined Materials,144,False,1
+Gold Bar,Refined Materials,164,False,1
+Uranium Bar,Refined Materials,322,False,1
+Ice Shard,Refined Materials,400,False,1
+Dark Shard,Refined Materials,850,False,1
+Ancient Bones,Refined Materials,1000,False,1
+Food Stamp,Stamps,46,False,1
+Paw Stamp,Stamps,46,False,1
+Feather Stamp,Stamps,66,False,1
+Sun Stamp,Stamps,66,False,1
+Swords Stamp,Stamps,66,False,1
+Coins Stamp,Stamps,86,False,1
+Fashion Stamp,Stamps,86,False,1
+Potion Stamp,Stamps,86,False,1
+Egg Stamp,Stamps,107,False,1
+Flower Stamp,Stamps,107,False,1
+Crown Stamp,Stamps,127,False,1
+Furniture Stamp,Stamps,127,False,1
+Skull Stamp,Stamps,127,False,1
+Snowflake Stamp,Stamps,147,False,1
+Dragon Stamp,Stamps,167,False,1
+Lava,Traps,20,False,10
+Bouncy Floor,Traps,155,False,10
+Poison Spikes,Traps,316,False,1
+Pop-up Saw,Traps,1430,False,1
+Giant Puncher,Traps,2443,False,1
+Boss Spawner - Yandeon,Traps,238999,False,1
+Boss Spawner - Shindeon,Traps,454099,False,1
+Rotting Stump,Uprooted Trees,2,False,1
+Frozen Tree,Uprooted Trees,25,False,1
+Mossy Tree,Uprooted Trees,25,False,1
+Birch Tree (Variant 1),Uprooted Trees,30,False,1
+Birch Tree (Variant 2),Uprooted Trees,30,False,1
+Evergreen Tree,Uprooted Trees,30,False,1
+Large Mossy Tree,Uprooted Trees,30,False,1
+Palm Tree,Uprooted Trees,60,False,1
+Willow Tree,Uprooted Trees,60,False,1
+Anvil,Weapon Accessories,200,True,1
+Weapon Display,Weapon Accessories,625,True,1
+Large Weapon Display,Weapon Accessories,915,True,1
+Crucible,Weapon Accessories,37399,True,1
+Stone Sword,Weapons,37,False,1
+Metal Sword,Weapons,200,False,1
+Titanium Sword,Weapons,795,False,1
+Magma Sword,Weapons,3235,False,1
+Ice Sword,Weapons,18983,False,1
+Dark Sword,Weapons,42329,False,1
+Ancient Scythe,Weapons,151699,False,1
+Blank Canvas,Any,73,False,1
+Blank Record,Any,25,False,1
+Builder Tools,Any,2,False,1
+Coins,Any,1,False,10000
+Paint Thinner,Any,173,False,10
+Saved Record,Any,30,False,1
